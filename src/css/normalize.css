@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 30px;
+}
+a {
+	text-decoration: none;
+}
+section {
+	width: 100%;
+	min-height: 400px;
+}
